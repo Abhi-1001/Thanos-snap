@@ -1,2 +1,4 @@
 # Thanos-snap
-Screenshot tool
+
+- Run `go build`
+- Then execute the `screenshot-tool.exe` file
